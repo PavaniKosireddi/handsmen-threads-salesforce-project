@@ -1,6 +1,6 @@
 ---
 
-## 🧩 Use Case: HandsMen Threads
+##  Use Case: HandsMen Threads
 
 **HandsMen Threads**, a fashion industry leader, is undergoing a Salesforce transformation to:
 
