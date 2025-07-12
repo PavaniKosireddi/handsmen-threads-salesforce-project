@@ -1,17 +1,27 @@
-# HandsMen Threads - Salesforce Project
+---
 
-This is the final SkillWallet Salesforce Developer project for the company "HandsMen Threads".
+## 🧩 Use Case: HandsMen Threads
 
-### 🎯 Goal:
-To improve customer service and internal operations using Salesforce tools like:
-- Custom Data Model
-- Lightning App Builder
-- Record-Triggered Flows
-- Apex Automation
-- Scheduled Jobs
+**HandsMen Threads**, a fashion industry leader, is undergoing a Salesforce transformation to:
 
-### 📦 Features Implemented:
-- Automated Order Confirmations (via Flow)
-- Loyalty Program Tier Management (via Flow + Apex)
-- Proactive Stock Alerts (via Flow)
-- Midnight Bulk Order Processing (via Scheduled Apex)
+- Centralize business data through a **robust data model**
+- Ensure **data accuracy** via validation from the user interface
+- Enhance **customer engagement** and **operational efficiency** using automation
+
+---
+
+## 🛠️ Business Goals Implemented in the Project
+
+1. **Automated Order Confirmations**  
+   - Send confirmation emails to customers upon order creation.
+
+2. **Dynamic Loyalty Program**  
+   - Update customer loyalty tiers based on purchase amounts.
+
+3. **Proactive Stock Alerts**  
+   - Notify the warehouse team when inventory falls below threshold.
+
+4. **Scheduled Bulk Order Updates**  
+   - Process pending bulk orders every midnight and update stock + financials.
+
+---
